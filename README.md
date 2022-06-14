@@ -30,6 +30,10 @@ Il peut avoir plusieurs formats :
   
 • Video (.mp4)
 
+![](https://github.com/mechafiki/arvision-for-education/blob/main/arvision.ml/src/assets/images/ar.gif?raw=true)
+
+
+
 #### 3. Exporter votre contneu
 
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
