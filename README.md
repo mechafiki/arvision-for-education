@@ -30,7 +30,6 @@ Il peut avoir plusieurs formats :
   
 • Video (.mp4)
 
-![](https://github.com/mechafiki/arvision-for-education/blob/main/arvision.ml/src/assets/images/upload.gif?raw=true)
 
 
 
@@ -38,6 +37,7 @@ Il peut avoir plusieurs formats :
 
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
+![](https://github.com/mechafiki/arvision-for-education/blob/main/arvision.ml/src/assets/images/upload.gif?raw=true)
 
 
 ## Maintenant vous pouvez commencer à utiliser l'appli AR-Vision
