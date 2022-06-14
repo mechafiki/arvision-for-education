@@ -11,7 +11,7 @@ En utilisant l'apprentissage automatique, L'objet 3D va apparaître lorsque le m
 
 ## Guide d'utilisation
 
-#### 1. Sélcetionner votre marqueur
+### 1. Sélectionner votre marqueur
 
 Tout simplement le marer c'est l'image sur laquelle l'objet 3D sera affiché.  
   
