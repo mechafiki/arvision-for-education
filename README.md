@@ -15,7 +15,8 @@ En utilisant l'apprentissage automatique, L'objet 3D va apparaître lorsque le m
 ### 1. Sélectionner votre marqueur
 
 Tout simplement le marer c'est l'image sur laquelle l'objet 3D sera affiché.  
-  
+ 
+![alt text](https://github.com/mechafiki/arvision-for-education/blob/main/arvision.mlsrc/assets/images/iaB.gif?raw=true)
 
 ###  2. Sélcetionner votre objet 3D
 
